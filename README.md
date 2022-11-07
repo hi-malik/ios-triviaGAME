@@ -1,4 +1,4 @@
-# SwiftUI-Games (WIP)
+# SwiftUI-Games (Using API call)
 Collection of simple demos of SwiftUI + API
 
 [TestFlight Beta](https://testflight.apple.com/join/52wVoy8Z "TestFlight Beta") (iOS 16+)
