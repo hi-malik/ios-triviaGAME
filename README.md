@@ -17,3 +17,6 @@ Collection of simple demos of SwiftUI + API
 <p float="left">
 <img src="https://github.com/hi-malik/Personal/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-11-07%20at%2017.55.54.png" height="300">
 </p>
+
+## VideoDemo
+<a href="#"><img width="800" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/ezgif.com-gif-maker%20(4).gif" height="175px"/></a>
