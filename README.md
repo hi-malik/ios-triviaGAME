@@ -20,3 +20,7 @@ Collection of simple demos of SwiftUI + API
 
 ## VideoDemo
 <a href="#"><img width="800" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/ezgif.com-gif-maker%20(4).gif" height="175px"/></a>
+
+
+### Api Link :-
+https://opentdb.com/api_config.php
