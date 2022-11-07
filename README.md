@@ -15,7 +15,7 @@ Collection of simple demo of SwiftUI + API
 
 ## MinimalDemo
 <p float="left">
-<img src="https://github.com/hi-malik/Personal/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-11-07%20at%2017.55.54.png" height="300">
+<img src="https://github.com/hi-malik/Personal/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202022-11-07%20at%2017.55.54.png" height="600">
 </p>
 
 ## VideoDemo
